@@ -6,7 +6,7 @@ import controller.AppointmentController;
 public class GhaithGaza1 {
 
     public static void main(String[] args) {
-
+       // test for documentation
         Appointment myAppointment = new Appointment(101, "Ahmad", "Ultrasound");
         
         AppointmentView myView = new AppointmentView();
