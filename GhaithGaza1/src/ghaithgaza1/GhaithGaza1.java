@@ -8,6 +8,8 @@ public class GhaithGaza1 {
     public static void main(String[] args) {
        // test for documentation
         Appointment myAppointment = new Appointment(101, "Ahmad", "Ultrasound");
+        Appointment myAppointment2 = new Appointment(102, "ola", "Ultrasound");
+
         
         AppointmentView myView = new AppointmentView();
 
