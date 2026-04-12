@@ -9,7 +9,7 @@ public class GhaithGaza1 {
        // test for documentation
         Appointment myAppointment = new Appointment(101, "Ahmad", "Ultrasound");
         Appointment myAppointment2 = new Appointment(102, "ola", "Ultrasound");
-
+        Appointment myAppointment3 = new Appointment(102, "ola", "Ultrasound");
         
         AppointmentView myView = new AppointmentView();
 
